@@ -1,4 +1,4 @@
 # Lupin-III
 
-today is also a nice day!
+Today is also a nice day!
 and everything is to be continue!
